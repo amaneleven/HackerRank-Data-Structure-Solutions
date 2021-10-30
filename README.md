@@ -1,1 +1,1 @@
-# HackerRank-Data-Structure-Solutions
+BINGOO !! hackerRank soution is there, all at one place
