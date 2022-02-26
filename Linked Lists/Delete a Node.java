@@ -1,4 +1,4 @@
-------replace "llist" with "head"     in the function nameing section----
+//------replace "llist" with "head"     in the function nameing section----
 
  public static SinglyLinkedListNode deleteNode(SinglyLinkedListNode head, int position) {
 // Write your code here
